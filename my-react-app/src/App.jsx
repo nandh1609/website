@@ -8,7 +8,7 @@ function App() {
     <>
       <Card/>
       <br></br>
-      <Student name="KadalaMuttai" description="sample for the propsd desc"/>
+      <Student name="KadalaMuttai" description="Hallleujah kartharre annaivarium kaptruvaayaga"/>
       <Button/>
     </>
       
